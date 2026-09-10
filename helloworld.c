@@ -7,4 +7,5 @@ printf("Hello, Solarsystem!"); // person 3
 printf("Hello, avans"); // person 3
 
 printf("NIEUWE FEATURE"); // nieuwe feature
+printf("Hello, technischeinformatica"); 
 }
